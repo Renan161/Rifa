@@ -1,0 +1,8 @@
+C:\Users\renan\source\repos\Sorteio-Rifa\Sorteio-Rifa\obj\Debug\net6.0\Sorteio-Rifa.csproj.AssemblyReference.cache
+C:\Users\renan\source\repos\Sorteio-Rifa\Sorteio-Rifa\obj\Debug\net6.0\Sorteio-Rifa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\source\repos\Sorteio-Rifa\Sorteio-Rifa\obj\Debug\net6.0\Sorteio-Rifa.AssemblyInfoInputs.cache
+C:\Users\renan\source\repos\Sorteio-Rifa\Sorteio-Rifa\obj\Debug\net6.0\Sorteio-Rifa.AssemblyInfo.cs
+C:\Users\renan\source\repos\Sorteio-Rifa\Sorteio-Rifa\obj\Debug\net6.0\Sorteio-Rifa.csproj.CoreCompileInputs.cache
+C:\Users\renan\source\repos\Sorteio-Rifa\Sorteio-Rifa\obj\Debug\net6.0\Sorteio-Rifa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\renan\source\repos\Sorteio-Rifa\Sorteio-Rifa\obj\Debug\net6.0\Sorteio-Rifa.RazorAssemblyInfo.cache
+C:\Users\renan\source\repos\Sorteio-Rifa\Sorteio-Rifa\obj\Debug\net6.0\Sorteio-Rifa.RazorAssemblyInfo.cs
